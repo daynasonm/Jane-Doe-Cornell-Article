@@ -1,4 +1,4 @@
-# Not a Bystander — Article Version 4
+# Jane Doe Cornell Article
 
 Static website for GitHub Pages. Serve this folder with any static web server.
 
